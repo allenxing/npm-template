@@ -9,7 +9,7 @@
     "build": "rm -R ./cjs ./esm && rollup --config",
     "build:types": "tsc -b ./tsconfig.types.json"
   },
-  "author": "hainan.xing@shopee.șom",
+  "author": "",
   "license": "ISC",
   "files": [
     "cjs",
